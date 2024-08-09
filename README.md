@@ -1,4 +1,4 @@
-![Docker Image Version](https://img.shields.io/docker/v/eyebrow/jenkins-agent)
+[![Docker Image Version](https://img.shields.io/docker/v/eyebrow/jenkins-agent)](https://hub.docker.com/r/eyebrow/jenkins-agent/tags)
 
 ### 项目结构
 
